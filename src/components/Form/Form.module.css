@@ -1,0 +1,48 @@
+
+
+
+.label{
+    color:white;
+}
+
+.input{
+    border:solid white 1px;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+
+    margin: 10px;
+
+}
+
+.input:focus{
+    outline:none;
+}
+
+
+.button{
+    width: fit-content;
+    height: 25px;
+    background-color: rgb(104, 104, 228);
+    color: white;
+    border-radius: 5px;
+    margin-right: 5px;
+
+    padding: 5px;
+    padding-bottom: 20px;
+
+    text-align: center;
+
+}
+
+.button:hover{
+    background-color: rgb(254, 254, 255);
+    color: rgb(69, 66, 66);
+    
+}
+
+.warning{
+    color:red;
+    font-size: 15px;
+margin: -5px;
+}

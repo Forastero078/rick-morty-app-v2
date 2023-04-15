@@ -1,0 +1,49 @@
+
+
+
+.div{
+    position: absolute;
+    border: solid rgb(104, 104, 228) 2px;
+    border-radius: 5px;
+    background-color: white;
+    width: fit-content;
+    margin-left: 780px;
+    margin-top: 34px;
+}
+
+.logo{
+    position: absolute;
+    width: 200px;
+    height: 70px;
+
+    border-radius: 25px;
+}
+
+
+.input{
+    border:solid white 1px;
+    border-radius: 5px;
+    width: 200px;
+    height: 25px;
+
+}
+
+.input:focus{
+    outline:none;
+}
+
+.button{
+    width: fit-content;
+    height: 25px;
+    background-color: rgb(104, 104, 228);
+    color: white;
+    border-radius: 5px;
+    margin-right: 5px;
+
+}
+
+.button:hover{
+    background-color: rgb(254, 254, 255);
+    color: rgb(69, 66, 66);
+    
+}
